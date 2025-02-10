@@ -1,12 +1,7 @@
 #include <stdio.h>
-
-char* welcome() {
-    return "Welcome to Code Radar!";
-}
-
-int main() {
-    float f
-    scanf("%f",&f)
-    printf("%s", welcome());
+int main {
+    float point
+    scanf("%f",point);
+    printf("%f",point);
     return 0;
 }
