@@ -5,7 +5,7 @@ int main() {
     scanf("%f", &number);
 
     // Printing the floating point number using printf
-    printf("%.2f\n", number);
+    printf("%2f\n", number);
 
     return 0;
 }
